@@ -1,0 +1,1 @@
+ALTER TABLE Salle ADD COLUMN description VARCHAR(255);
